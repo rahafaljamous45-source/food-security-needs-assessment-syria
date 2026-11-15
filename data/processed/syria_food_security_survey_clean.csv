@@ -1,0 +1,27 @@
+hh_id,governorate,household_type,household_size,monthly_income_syp,food_expenditure_syp,main_income_source,female_headed,interview_date,FCSStap,FCSStap_SRf,FCSVeg,FCSVeg_SRf,FCSFruit,FCSFruit_SRf,FCSPr,FCSPr_SRf,FCSPulse,FCSPulse_SRf,FCSDairy,FCSDairy_SRf,FCSSugar,FCSSugar_SRf,FCSFat,FCSFat_SRf,FCSCond,FCSCond_SRf
+HH_0001,Damascus,IDP,2,3087090,1561841,Remittances,No,2025-02-10,7,100,5,100,3,600,2,800,4,600,1,300,6,600,0,n/a,2,800
+HH_0002,Daraa,Resident,2,5572687,2289536,Remittances,Yes,2025-03-06,1,200,2,200,3,700,1,999,2,700,5,600,4,700,2,200,6,999
+HH_0003,Damascus,IDP,9,856250,1122635,Humanitarian assistance,No,2025-01-24,7,300,4,300,2,800,2,1000,4,300,1,200,2,300,0,n/a,7,1000
+HH_0004,Damascus,IDP,5,2746626,1122635,Daily labour,No,2025-03-06,2,400,4,400,7,999,7,600,5,600,0,n/a,5,600,0,n/a,0,n/a
+HH_0005,Aleppo,Resident,6,2746626,1519885,Daily labour,No,2025-02-21,1,500,1,500,3,1000,0,n/a,1,200,4,600,7,200,5,600,0,n/a
+HH_0006,Daraa,Resident,6,1024597,617045,Remittances,No,2025-02-05,2,600,2,800,3,300,5,200,1,300,4,300,4,300,7,300,0,n/a
+HH_0007,Tartous,IDP,6,975914,563090,Regular salary,No,2025-02-24,3,700,4,999,6,600,2,300,0,n/a,2,600,0,n/a,0,n/a,2,600
+HH_0008,As-Sweida,IDP,8,1229479,554299,Humanitarian assistance,Yes,2025-03-09,6,800,1,1000,2,200,3,500,4,400,2,700,0,n/a,4,400,0,n/a
+HH_0009,Damascus,IDP,10,3833184,1639115,Daily labour,No,2025-01-31,5,999,1,300,2,300,0,n/a,0,n/a,4,100,3,300,6,100,4,200
+HH_0010,Ar-Raqqa,IDP,3,1374576,787229,Humanitarian assistance,No,2025-02-06,3,1000,1,100,2,100,1,400,6,500,5,200,4,600,4,200,0,n/a
+HH_0011,Damascus,Resident,9,3602769,1966214,Humanitarian assistance,Yes,2025-01-19,4,300,4,200,5,200,7,600,0,n/a,3,300,6,400,1,300,5,600
+HH_0012,Al-Hasakeh,Resident,5,2746626,3855156,Daily labour,No,2025-03-12,0,n/a,7,300,7,300,5,700,0,n/a,5,400,7,100,5,400,1,300
+HH_0013,Damascus,Returnee,3,2411383,1122635,Agriculture,No,2025-02-21,1,200,4,400,6,400,7,800,3,600,6,500,1,200,7,500,1,100
+HH_0014,Damascus,IDP,10,1384543,602337,Agriculture,No,2025-01-29,0,n/a,5,500,3,500,0,n/a,3,700,4,800,4,300,5,500,4,200
+HH_0015,Homs,Refugee,9,1406333,1049999,Daily labour,No,2025-01-18,4,300,5,600,7,800,5,600,5,100,3,999,7,400,0,n/a,2,300
+HH_0016,Damascus,IDP,6,1063001,425702,Trade/Business,No,2025-01-28,0,n/a,4,700,6,999,1,700,5,200,6,1000,1,500,1,600,5,400
+HH_0017,Latakia,IDP,3,1538434,1122635,Remittances,Yes,2025-02-05,3,400,6,800,7,1000,7,800,6,300,3,400,6,600,0,n/a,1,500
+HH_0018,Tartous,Resident,7,5949068,4522656,Agriculture,Yes,2025-03-03,0,n/a,3,999,1,300,3,999,6,400,0,n/a,3,700,6,300,2,600
+HH_0019,Damascus,Refugee,8,16481100,755897,Humanitarian assistance,Yes,2025-01-19,0,n/a,3,1000,5,400,3,1000,3,500,0,n/a,5,800,7,1000,1,700
+HH_0020,Damascus,IDP,2,4833891,3022155,Humanitarian assistance,No,2025-01-23,4,600,2,600,7,500,5,300,5,800,3,800,4,999,7,1000,7,300
+HH_0021,Quneitra,Resident,7,2746626,531999,Regular salary,No,2025-02-15,3,700,6,200,3,600,5,600,6,999,3,999,6,1000,0,n/a,4,600
+HH_0022,Damascus,IDP,6,3488728,2703548,Daily labour,Yes,2025-02-13,3,800,5,300,4,700,1,800,6,1000,7,1000,6,300,5,300,0,n/a
+HH_0023,Idleb,Refugee,6,6511036,2967139,Agriculture,No,2025-01-21,1,999,3,400,1,800,3,999,2,600,6,500,2,500,3,600,1,600
+HH_0024,Deir-Ez-Zor,Resident,4,1580249,720044,Humanitarian assistance,No,2025-03-09,6,1000,3,500,1,999,5,1000,2,600,1,600,6,800,7,800,5,400
+HH_0025,Damascus,Returnee,5,2747108,1433692,Agriculture,No,2025-02-25,0,n/a,0,n/a,0,n/a,0,n/a,0,n/a,0,n/a,0,n/a,0,n/a,0,n/a
+HH_0026,Al-Hasakeh,Resident,6,1124961,797300,Trade/Business,No,2025-03-14,1,600,1,600,1,1000,1,1000,1,700,1,700,1,700,1,700,1,500
