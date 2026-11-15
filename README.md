@@ -2,7 +2,7 @@
 
 **Data Cleaning, Indicator Calculation & Analysis using R**
 
-This project demonstrates a complete, reproducible workflow for processing household food security survey data, inspired by real-world humanitarian needs assessments (e.g., IMPACT Initiatives, WFP, OCHA).
+This project demonstrates a complete, reproducible workflow for processing household food security survey data, inspired by real-world humanitarian needs assessments.
 
 ---
 
